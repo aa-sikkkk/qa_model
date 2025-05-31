@@ -31,8 +31,8 @@ This project is developed for reasearch purpose of analyzing curriculum data, ge
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/aa-sikkkk/qa_model.git
+cd qa_model
 ```
 
 2. Create and activate a virtual environment:
